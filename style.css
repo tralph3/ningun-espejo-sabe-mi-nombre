@@ -1,0 +1,32 @@
+.front {
+  padding: 10px;
+  transition: transform .1s;
+  width: 75%;
+  font-size: 110%;
+  margin: 0 auto;
+}
+
+.front:hover {
+  transform: scale(1.01);
+  background-color: #ffb3b3;
+}
+
+.background {
+  padding: 10px;
+  transition: transform .1s;
+  background-color: black;
+  color: white;
+  width: 75%;
+  font-size: 110%;
+  margin: 0 auto;
+}
+
+.background:hover {
+  transform: scale(1.01);
+  background-color: #330000;
+}
+
+#footer {
+  text-align: right;
+  font-size: 70%;
+}

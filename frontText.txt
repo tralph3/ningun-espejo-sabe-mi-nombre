@@ -1,0 +1,11 @@
+let frontText = [
+`
+Lorem ipsum dolor sit am<i>et, consectetur adipiscing elit, sed do eiusmod tempor incididunt u</i>t labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Nibh mauris cursus mattis molestie a. Porttitor massa id neque aliquam vestibulum. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Elementum integer enim neque volutpat. In cursus turpis massa tincidunt dui ut. Lacinia quis vel eros donec ac odio tempor orci. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Ullamcorper morbi tincidunt ornare massa. Diam quis enim lobortis scelerisque fermentum dui faucibus. Morbi tincidunt augue interdum velit euismod in pellentesque massa placerat. Nascetur ridiculus mus mauris vitae ultricies leo integer. Eget duis at tellus at urna condimentum mattis. Tincidunt nunc pulvinar sapien et.
+`,
+`
+Habitant morbi tristique senectus et netus et malesuada fames ac. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Maecenas volutpat blandit aliquam etiam. Lectus proin nibh nisl condimentum id venenatis a. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh. Mi proin sed libero enim sed. Vitae et leo duis ut diam quam. Enim nulla aliquet porttitor lacus luctus accumsan tortor. In aliquam sem fringilla ut. Platea dictumst quisque sagittis purus sit. Nunc id cursus metus aliquam. Pellentesque habitant morbi tristique senectus et. Dolor sit amet consectetur adipiscing elit. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Tincidunt arcu non sodales neque. Mollis aliquam ut porttitor leo.
+`,
+`
+Vitae semper quis lectus nulla at volutpat diam. Id interdum velit laoreet id donec ultrices tincidunt. Nunc vel risus commodo viverra maecenas accumsan. Elit pellentesque habitant morbi tristique senectus et. Id nibh tortor id aliquet lectus proin nibh nisl condimentum. Dolor morbi non arcu risus quis varius quam quisque. Venenatis cras sed felis eget velit. Egestas erat imperdiet sed euismod nisi porta lorem mollis aliquam. Volutpat commodo sed egestas egestas fringilla. Venenatis lectus magna fringilla urna.
+`
+];
