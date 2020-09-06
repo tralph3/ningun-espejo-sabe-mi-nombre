@@ -1,4 +1,4 @@
-.front {
+.first {
   padding: 10px;
   transition: transform .1s;
   width: 75%;
@@ -6,24 +6,34 @@
   margin: 0 auto;
 }
 
-.front:hover {
+.first:hover {
   transform: scale(1.01);
-  background-color: #ffb3b3;
 }
 
-.background {
+.second {
   padding: 10px;
   transition: transform .1s;
-  background-color: black;
-  color: white;
+  color: blue;
   width: 75%;
   font-size: 110%;
   margin: 0 auto;
 }
 
-.background:hover {
+.second:hover {
   transform: scale(1.01);
-  background-color: #330000;
+}
+
+.third {
+  padding: 10px;
+  transition: transform .1s;
+  color: green;
+  width: 75%;
+  font-size: 110%;
+  margin: 0 auto;
+}
+
+.third:hover {
+  transform: scale(1.01);
 }
 
 #footer {
