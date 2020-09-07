@@ -8,6 +8,7 @@
 
 .first:hover {
   transform: scale(1.01);
+  cursor: pointer;
 }
 
 .second {
@@ -21,6 +22,7 @@
 
 .second:hover {
   transform: scale(1.01);
+  cursor: pointer;
 }
 
 .third {
@@ -34,6 +36,7 @@
 
 .third:hover {
   transform: scale(1.01);
+  cursor: pointer;
 }
 
 #footer {
