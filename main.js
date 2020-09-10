@@ -79,7 +79,7 @@ function getText($circle)
 function showAlert()
 {
     swal({
-	text: "Este cuento es interactivo. Puede hacer click en los párrafos para ver diferentes versiones de la historia, o puede utilizar los círculos de colores para cambiar todos los párrafos a la vez.",
+	text: "Este cuento es interactivo. Podés hacer click en los párrafos para alternar entre las diferentes narraciones de la historia, o utilizar los círculos de colores para cambiar todos los párrafos a la vez.",
 	icon: "info"
     })
 }

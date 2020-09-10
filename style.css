@@ -2,19 +2,27 @@
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  display: inline-block;
+  border-style: dashed;
+  border-width: 2px;
+  display: block;
   cursor: pointer;
   margin: 0px;
 }
 
 .circles {
-    padding-bottom: 5%;
+  margin-top: -160px;
+  width: 54px;
+  position: sticky;
+  position: -webkit-sticky; /* Safari */
+  bottom: 35%;
+  height: 202px;
+  z-index: 2;
 }
 
 .divider {
-  display: inline-block;
-  padding-left: 2%;
-  padding-right: 2%;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .circle#first {
@@ -72,23 +80,35 @@
 }
 
 .swal-overlay {
-  background-color: rgba(0, 0, 0, 0.22);
+  background-color: rgba(0, 0, 0, 0.32);
 }
 
 .swal-modal {
   background-color: #ffffcc;
 }
 
-.swal-title {
-  font-family:Amiri;
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.21);
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
-
 .swal-text {
   font-family:Amiri;
   text-align: center;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.swal-icon {
+  border-color: #729eb1;
+
+}
+
+.swal-icon--info:after,
+.swal-icon--info:before {
+  background-color: #729eb1;
+}
+
+.swal-button {
+  background-color: #729eb1;
+}
+
+.swal-modal {
+  box-shadow: 5px 10px 12px #222222;
 }
 
 #footer {
