@@ -1,3 +1,13 @@
+.body {
+  background-color:#ffffcc;
+  -webkit-touch-callout: none; 	/* iOS Safari */
+  -webkit-user-select: none; 	/* Safari */
+  -khtml-user-select: none; 	/* Konqueror HTML */
+  -moz-user-select: none; 	/* Old versions of Firefox */
+  -ms-user-select: none; 	/* Internet Explorer/Edge */
+  user-select: none;
+}
+
 .circle {
   height: 50px;
   width: 50px;
@@ -9,11 +19,16 @@
   margin: 0px;
 }
 
+.circle:hover {
+    transform: scale(1.1);
+    transition: transform .1s;
+}
+
 .circles {
   margin-top: -200px;
   width: 54px;
   position: sticky;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; 	/* Safari */
   top: 50%;
   height: 202px;
   z-index: 2;
