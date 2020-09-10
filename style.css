@@ -10,11 +10,11 @@
 }
 
 .circles {
-  margin-top: -160px;
+  margin-top: -200px;
   width: 54px;
   position: sticky;
   position: -webkit-sticky; /* Safari */
-  bottom: 35%;
+  top: 35%;
   height: 202px;
   z-index: 2;
 }
