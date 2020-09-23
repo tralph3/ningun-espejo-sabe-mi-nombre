@@ -96,35 +96,16 @@
   cursor: pointer;
 }
 
-.swal-overlay {
-  background-color: rgba(0, 0, 0, 0.32);
-}
-
-.swal-modal {
-  background-color: #ffffcc;
-}
-
-.swal-text {
-  font-family:Amiri;
+.swal2-html-container {
   text-align: center;
   color: rgba(0, 0, 0, 0.9);
 }
 
-.swal-icon {
+.swal2-icon-content {
   border-color: #729eb1;
-
 }
 
-.swal-icon--info:after,
-.swal-icon--info:before {
-  background-color: #729eb1;
-}
-
-.swal-button {
-  background-color: #729eb1;
-}
-
-.swal-modal {
+.swal2-show {
   box-shadow: 5px 10px 12px #222222;
 }
 
